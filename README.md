@@ -1,4 +1,4 @@
-# ERC-20-Token-23A91A61D2MyToken (MTK)
+# ERC-20-Token-23A91A61B5MyToken (MTK)
 
 MyToken is a basic yet fully operational ERC-20 cryptocurrency token deployed on the Ethereum blockchain using Remix IDE.
 This repository was created as part of a blockchain learning exercise to explore how ERC-20 tokens function internally.
